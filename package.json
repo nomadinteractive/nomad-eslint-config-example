@@ -1,0 +1,13 @@
+{
+    "name": "nomad-eslint-example",
+    "version": "0.0.1",
+    "main": "index.js",
+    "author": "Nomad Interactive <hello@nomadinteractive.co>",
+    "license": "MIT",
+    "scripts": {
+        "eslint": "eslint ./example-app"
+    },
+    "dependencies": {
+        "@nomadinteractive/eslint-config": "0.1.0"
+    }
+}
